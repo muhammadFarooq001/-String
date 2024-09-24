@@ -1,4 +1,9 @@
 # -String
 
 
-#include
+#include<iostream>
+using namespaces std;
+int main()
+{
+    cout<<"welcome";
+}
